@@ -1,0 +1,24 @@
+# Compilação e Build
+target/
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Configurações sensíveis (opcional, mas recomendado)
+# src/main/resources/application.properties
